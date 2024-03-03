@@ -24,7 +24,6 @@ if __name__ == "__main__":
 
         else:
             total_lines, total_words, total_bytes = 0, 0, 0
-            fst_dist = 8,
 
             for i in range(1, len(sys.argv)):
                 filename = sys.argv[i]
